@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanguy</h1>
 <h3 align="center">A new passionate fullstack web developer from France</h3>
 
-- 👨‍💻 All of my projects are available at [https://tanguyhuart.github.io](https://tanguyhuart.github.io)
+- 👨‍💻 All of my projects are available at [https://ystwebdev.vercel.app/](https://ystwebdev.vercel.app/)
 
 - 📫 How to reach me **yst.webdev@gmail.com**
 
